@@ -6,39 +6,39 @@ import { Github, ExternalLink } from "lucide-react"
 const projects = [
   {
     id: 1,
-    title: "E-Commerce Platform",
+    title: "Dream Campus",
     description:
-      "A full-stack e-commerce platform built with React, Node.js, and MongoDB. Features include user authentication, product search, cart functionality, and payment processing.",
-    technologies: ["React", "Node.js", "Express", "MongoDB", "Stripe"],
-    github: "https://github.com/username/ecommerce-platform",
-    live: "https://ecommerce-platform.vercel.app",
+      "I created Dream Campus to set a benchmark for sleek, responsive web design. Focused on delivering the best UI/UX experience, the platform helps students seamlessly explore colleges and career options across all devices with ease.",
+    technologies: ["React + Vite", "HTML", "CSS", "JavaScript", "JSON Server", "AI Chatbot"],
+    github: "https://github.com/shibadityadeb/Dream-Campus",
+    live: "https://dream-campus.vercel.app/",
   },
   {
     id: 2,
-    title: "Task Management App",
+    title: "Shift Booking App",
     description:
-      "A Kanban-style task management application with drag-and-drop functionality, user collaboration, and real-time updates.",
-    technologies: ["React", "Firebase", "Tailwind CSS", "React DnD"],
-    github: "https://github.com/username/task-management",
-    live: "https://task-management-app.vercel.app",
+      "Shift Booking App is a mobile platform built to offer a seamless, intuitive experience for booking available time slots. Users can easily view and reserve slots in real time, featuring smooth navigation and a sleek, responsive interface.",
+    technologies: ["React Native", "TypeScript", "Expo Go"],
+    github: "https://github.com/shibadityadeb/Shift-Booking-app",
+    live: "https://github.com/shibadityadeb/Shift-Booking-app#",
   },
   {
     id: 3,
     title: "Weather Dashboard",
     description:
-      "A weather dashboard that displays current and forecasted weather data for multiple locations using the OpenWeatherMap API.",
-    technologies: ["React", "Redux", "Chart.js", "OpenWeatherMap API"],
-    github: "https://github.com/username/weather-dashboard",
-    live: "https://weather-dashboard.vercel.app",
+      "Weather App offers real-time weather updates with dynamic icons and backgrounds. It features a sleek UI, search functionality, and AI-enhanced design for a smooth user experience, providing essential weather details like temperature, humidity, and wind speed.",
+    technologies: ["React + Vite", "OpenWeatherMap API"],
+    github: "https://github.com/shibadityadeb/Weather-App-Project",
+    live: "https://onlineweathercheck.netlify.app/",
   },
   {
     id: 4,
-    title: "Portfolio Website",
+    title: "Sentence Construction Game",  
     description:
-      "A responsive portfolio website built with React and Tailwind CSS. Features include dark mode, animations, and contact form.",
-    technologies: ["React", "Tailwind CSS", "Framer Motion", "Vercel"],
-    github: "https://github.com/username/portfolio",
-    live: "https://portfolio.vercel.app",
+      "Sentence Construction Tool is a React-based app that challenges users to complete sentences using interactive word options. It features a timer, scoring system, and feedback screen with correct/incorrect answers, offering a fun and engaging way to test sentence skills.",
+    technologies: ["React + Vite", "Tailwind CSS", "JSON Server", "React Router"],
+    github: "https://github.com/shibadityadeb/Sentence-constructor",
+    live: "https://sentence-constructor.vercel.app/",
   },
 ]
 

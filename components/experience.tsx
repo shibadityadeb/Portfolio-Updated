@@ -6,48 +6,21 @@ import { BriefcaseIcon, GraduationCap } from "lucide-react"
 const experiences = [
   {
     id: 1,
-    title: "Senior Frontend Developer",
-    company: "Tech Innovations Inc.",
-    period: "2021 - Present",
-    description:
-      "Lead the frontend development team in building and maintaining a large-scale SaaS platform. Implemented new features, optimized performance, and mentored junior developers.",
+    title: "Finnancial Analyst Intern",
+    company: "Awesome Advertising",
+    period: "Nov 2024 - Dec 2024",
+    description:"Gained practical experience in financial analysis, stock market strategies, and portfolio building through live sessions, research, trend analysis, and networking, showcasing analytical excellence and a commitment to refining skills.",
     type: "work",
   },
   {
     id: 2,
-    title: "Full Stack Developer",
-    company: "Digital Solutions Ltd.",
-    period: "2018 - 2021",
-    description:
-      "Developed and maintained multiple web applications using React, Node.js, and MongoDB. Collaborated with designers and product managers to deliver high-quality products.",
-    type: "work",
+    title: "Software Engineer Intern", 
+    company: "Kiran Foundation",
+    period: "Apr 2025 - Present",
+    description:"As a Software Development Intern at Kiran Foundation, I’m working on app development for a digital platform that enhances education, community empowerment, and accessibility, contributing to a cause that makes a meaningful impact." ,
+      type: "work",
   },
-  {
-    id: 3,
-    title: "Frontend Developer",
-    company: "WebCraft Agency",
-    period: "2016 - 2018",
-    description:
-      "Created responsive websites and web applications for various clients. Worked with HTML, CSS, JavaScript, and jQuery.",
-    type: "work",
-  },
-  {
-    id: 4,
-    title: "Master's in Computer Science",
-    company: "University of Technology",
-    period: "2014 - 2016",
-    description:
-      "Specialized in Web Technologies and Software Engineering. Thesis on 'Optimizing React Applications for Performance'.",
-    type: "education",
-  },
-  {
-    id: 5,
-    title: "Bachelor's in Computer Science",
-    company: "State University",
-    period: "2010 - 2014",
-    description: "Graduated with honors. Focused on programming fundamentals, data structures, and algorithms.",
-    type: "education",
-  },
+  
 ]
 
 export default function Experience() {
