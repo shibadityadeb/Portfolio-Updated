@@ -113,9 +113,7 @@ export default function Hero() {
         <h2 className="text-2xl font-semibold mb-6 text-gray-300">Full Stack Developer</h2>
         <div className="prose prose-invert max-w-none">
           <p className="text-xl mb-6 text-gray-300">
-          I'm a passionate developer and technology innovator with expertise in frontend development, artificial intelligence, and financial market analysis. As a published AI researcher and share market analyst, I am driven to create intelligent fintech solutions that bridge technology and finance, aiming to redefine the future of innovation.
-
-
+Developer | AI Researcher | Fintech Innovator | Skilled in Python, DSA & Data Analysis | Merging Tech & Finance with Vision and Impac
           </p>
           <p className="text-lg mb-8 text-gray-400">
             My approach combines technical excellence with user-centered design principles. I'm constantly learning new
