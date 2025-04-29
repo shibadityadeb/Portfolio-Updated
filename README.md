@@ -21,7 +21,6 @@ Welcome to my personal developer portfolio built using **Next.js**, **React**, a
 ## 🛠 Built With
 
 - [Next.js](https://nextjs.org/)
-- [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Nodemailer](https://nodemailer.com/)
 - [Vercel](https://vercel.com/)
