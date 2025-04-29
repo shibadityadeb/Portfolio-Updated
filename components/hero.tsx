@@ -113,9 +113,9 @@ export default function Hero() {
         <h2 className="text-2xl font-semibold mb-6 text-gray-300">Full Stack Developer</h2>
         <div className="prose prose-invert max-w-none">
           <p className="text-xl mb-6 text-gray-300">
-            I'm a passionate full-stack developer with expertise in React, Node.js, and cloud technologies. With 5+
-            years of experience building scalable web applications, I focus on creating elegant solutions to complex
-            problems.
+          I'm a passionate developer and technology innovator with expertise in frontend development, artificial intelligence, and financial market analysis. As a published AI researcher and share market analyst, I am driven to create intelligent fintech solutions that bridge technology and finance, aiming to redefine the future of innovation.
+
+
           </p>
           <p className="text-lg mb-8 text-gray-400">
             My approach combines technical excellence with user-centered design principles. I'm constantly learning new
