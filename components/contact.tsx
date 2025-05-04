@@ -81,7 +81,7 @@ export default function Contact() {
           <h3 className="text-xl font-semibold mb-6 text-white">Get in Touch</h3>
           <div className="space-y-6">
             <a
-              href="mailto:shibadityaadeb.official@gmail.com"
+              href="mailto:shibadityadeb.official@gmail.com"
               className="flex items-center gap-4 text-gray-300 hover:text-purple-400 transition-colors"
             >
               <div className="w-12 h-12 rounded-full bg-gray-800 flex items-center justify-center">
@@ -89,7 +89,7 @@ export default function Contact() {
               </div>
               <div>
                 <p className="font-medium">Email</p>
-                <p className="text-gray-400">shibadityaadeb.official@gmail.com</p>
+                <p className="text-gray-400">shibadityadeb.official@gmail.com</p>
               </div>
             </a>
             <a
