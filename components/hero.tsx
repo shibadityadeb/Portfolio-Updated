@@ -4,7 +4,7 @@ import { useRef } from "react"
 import { motion } from "framer-motion"
 import { ChevronDown, Linkedin, Github, Instagram } from "lucide-react"
 
-// ✅ Custom SVG Components for LeetCode and Codeforces
+//custom SVG Components 
 const LeetCodeIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg {...props} viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
     <path
@@ -110,11 +110,11 @@ export default function Hero() {
           </a>
         </div>
 
-        <h2 className="text-2xl font-semibold mb-6 text-gray-300">Full Stack Developer</h2>
+        <h2 className="text-2xl font-semibold mb-6 text-gray-300">Developer | AI Researcher | Fintech Visionary</h2>
         <div className="prose prose-invert max-w-none">
           <p className="text-xl mb-6 text-gray-300">
-Developer | AI Researcher | Fintech Innovator | Skilled in Python, DSA & Data Analysis | Merging Tech & Finance with Vision and Impac
-          </p>
+
+Bridging Technology and Finance with Purpose — Skilled in Python, Data Structures & Algorithms, Data Science, and Generative AI Models. Crafting innovative, data-driven solutions that deliver real-world financial impact.          </p>
           <p className="text-lg mb-8 text-gray-400">
             My approach combines technical excellence with user-centered design principles. I'm constantly learning new
             technologies and methodologies to stay at the forefront of web development.
@@ -132,7 +132,7 @@ Developer | AI Researcher | Fintech Innovator | Skilled in Python, DSA & Data An
             View My Work
           </motion.button>
 
-          {/* Updated Download Resume Button */}
+          {/* Download Resume Button */}
           <motion.a
             href="/resume-shibaditya-deb.pdf"
             download="Shibaditya_Deb_Resume.pdf"
