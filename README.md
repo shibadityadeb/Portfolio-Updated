@@ -4,7 +4,7 @@ Welcome to my personal developer portfolio built using **Next.js**, **React**, a
 
 ## 🌐 Live Site
 
-🔗 [Visit Portfolio](https://portfolio-flj68jrij-shibaditya-debs-projects.vercel.app)
+🔗 [Visit Portfolio](https://shibadityadeb.vercel.app/)
 
 ---
 
