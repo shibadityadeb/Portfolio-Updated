@@ -134,7 +134,7 @@ Bridging Technology and Finance with Purpose — Skilled in Python, Data Structu
 
           {/* Download Resume Button */}
           <motion.a
-            href="/resume-shibaditya-deb.pdf"
+            href="/Resume-Shibaditya Deb.pdf"
             download="Shibaditya_Deb_Resume.pdf"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
