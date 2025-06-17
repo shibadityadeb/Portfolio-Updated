@@ -16,7 +16,7 @@ const experiences = [
     id: 2,
     title: "Software Engineer Intern", 
     company: "Kiran Foundation",
-    period: "Apr 2025 - Present",
+    period: "Apr 2025 - July 2025",
     description:"As a Software Development Intern at Kiran Foundation, I’m working on app development for a digital platform that enhances education, community empowerment, and accessibility, contributing to a cause that makes a meaningful impact." ,
       type: "work",
   },
@@ -40,7 +40,7 @@ export default function Experience() {
       </motion.div>
 
       <div className="relative">
-        {/* Timeline line */}
+        
         <div className="absolute left-0 md:left-1/2 h-full w-0.5 bg-gradient-to-b from-purple-500 to-pink-600 transform -translate-x-1/2"></div>
 
         <div className="space-y-12">

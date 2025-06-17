@@ -20,7 +20,7 @@ const projects = [
       "Shift Booking App is a mobile platform built to offer a seamless, intuitive experience for booking available time slots. Users can easily view and reserve slots in real time, featuring smooth navigation and a sleek, responsive interface.",
     technologies: ["React Native", "TypeScript", "Expo Go"],
     github: "https://github.com/shibadityadeb/Shift-Booking-app",
-    live: "https://github.com/shibadityadeb/Shift-Booking-app#",
+    live: null,
   },
   {
     id: 3,
@@ -39,6 +39,26 @@ const projects = [
     technologies: ["React + Vite", "Tailwind CSS", "JSON Server", "React Router"],
     github: "https://github.com/shibadityadeb/Sentence-constructor",
     live: "https://sentence-constructor.vercel.app/",
+  },
+  {
+    id: 5,
+    description: "Diabetes Predictor System is a machine learning-based application that predicts diabetes risk using a Support Vector Machine classifier. Built with the Pima Indians Diabetes Database, it analyzes health metrics like glucose levels, BMI, blood pressure, and age to provide accurate diabetes predictions with high training and test accuracy.",
+
+technologies: ["Python", "Scikit-learn", "Pandas", "NumPy", "Google Colab", "SVM Classifier"],
+
+github: "https://github.com/shibadityadeb/Diabetes_predictor_system",
+
+live: null ,
+  },
+   {
+    id:7,
+    description: "Resume Screening System is a machine learning-powered web application that automatically screens resumes and predicts the most relevant job category. Built with Streamlit, it accepts PDF/TXT resumes, uses TF-IDF vectorization and ML classification to categorize roles like Python Developer, HR, Data Science, and extracts key sections like Skills and Experience.",
+
+technologies: ["Python", "Streamlit", "Scikit-learn", "NLTK", "TF-IDF Vectorizer", "Regex", "Machine Learning"],
+
+github: "https://github.com/shibadityadeb/Resume-Screening-System",
+
+live: "https://resume-screeningapp.streamlit.app/#predicted-category" // Deployed on Streamlit Cloud but specific URL not provided in repo ,
   },
 ]
 
