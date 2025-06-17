@@ -16,7 +16,7 @@ const experiences = [
     id: 2,
     title: "Software Engineer Intern", 
     company: "Kiran Foundation",
-    period: "Apr 2025 - July 2025",
+    period: "Apr 2025 - June 2025",
     description:"As a Software Development Intern at Kiran Foundation, I’m working on app development for a digital platform that enhances education, community empowerment, and accessibility, contributing to a cause that makes a meaningful impact." ,
       type: "work",
   },
