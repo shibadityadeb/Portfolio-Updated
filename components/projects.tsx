@@ -40,18 +40,9 @@ const projects = [
     github: "https://github.com/shibadityadeb/Sentence-constructor",
     live: "https://sentence-constructor.vercel.app/",
   },
-  {
-    id: 5,
-    description: "Diabetes Predictor System is a machine learning-based application that predicts diabetes risk using a Support Vector Machine classifier. Built with the Pima Indians Diabetes Database, it analyzes health metrics like glucose levels, BMI, blood pressure, and age to provide accurate diabetes predictions with high training and test accuracy.",
-
-technologies: ["Python", "Scikit-learn", "Pandas", "NumPy", "Google Colab", "SVM Classifier"],
-
-github: "https://github.com/shibadityadeb/Diabetes_predictor_system",
-
-live: null ,
-  },
    {
     id:7,
+    title:"Resume Screening System",
     description: "Resume Screening System is a machine learning-powered web application that automatically screens resumes and predicts the most relevant job category. Built with Streamlit, it accepts PDF/TXT resumes, uses TF-IDF vectorization and ML classification to categorize roles like Python Developer, HR, Data Science, and extracts key sections like Skills and Experience.",
 
 technologies: ["Python", "Streamlit", "Scikit-learn", "NLTK", "TF-IDF Vectorizer", "Regex", "Machine Learning"],
